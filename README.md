@@ -10,6 +10,7 @@ c. Interpretation of different statistical results
 A few weeks into this project, Jeremy is approached by upper management about a special project. AutosRUs’ newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing team’s progress. AutosRUs’ upper management has called on Jeremy and the data analytics team to review the production data for insights that may help the manufacturing team.
 
 This project's objective is to ensure that the issues of MechaCar are resolved by performing the below steps:
+
 a. Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes
 
 b. Collect summary statistics on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots
@@ -120,6 +121,7 @@ Alternate Hypothesis: Pounds Per Square Inch values are different in different l
 Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 A few metrics that can be useful to a consumer are:
+
 a. city or highway fuel efficiency
 
 b. maintenance cost
