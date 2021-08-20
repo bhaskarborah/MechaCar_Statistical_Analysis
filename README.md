@@ -49,6 +49,8 @@ mpg ~ vehicle_length + vehicle_weight + spoiler_angle +
     AWD + ground_clearance
 
 which uses the below values:
+
+
 ![Screen Shot 2021-08-19 at 11.42.23 PM](https://i.imgur.com/9xm6sSF.png)
 
 Hence the slope value cannot be considered as 0.
@@ -68,8 +70,11 @@ The lot summary of the Suspension Coils dataset:
 ![Screen Shot 2021-08-19 at 11.48.29 PM](https://i.imgur.com/nuOg2Ac.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch.
+
 The global variance is 62.3 pounds per square inch. Hence the design specifications of all manufacturing lots in total is fine and meets the requirement. 
+
 For Lot 1 and Lot 2 the variances are 0.98 and 7.47 pounds per square inch respectively. Hence they meet the design specification.
+
 However for Lot 3 the variance of 170 pounds per square inch is off limits. Hence Lot 3 does not meet the manufacturing design specifications.
 
 ## T-Tests on Suspension Coils
@@ -116,11 +121,17 @@ Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 A few metrics that can be useful to a consumer are:
 a. city or highway fuel efficiency
+
 b. maintenance cost
+
 c. horse power
+
 d. safety rating
+
 e. cost
+
 f. miles driven
+
 g. vehicle braking system
 
 These metrics can be tested for the MechaCar and the competition to determine the performance of the MechaCar against the competition.
@@ -142,6 +153,8 @@ Various statistical tools and formulae have been used to provide the required re
 To compare the MechaCar and its competition, below hypotheses can be used:
 
 The Null Hypothesis can be: The MechaCar and all the competitor cars have the same performance
+
+
 The Alternate Hypothesis can be: The MechaCar has a better fuel efficiency on highways than any of the other cars in competition
 
 
